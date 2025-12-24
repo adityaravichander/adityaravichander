@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adityaravichander
-- 👀 I’m interested in motion planning and control of robotics and autonomous systems
-- 🌱 I’m currently learning to implement reinforcement learning techniques for self-driving car applications. 
-- 💞️ I’m looking to collaborate with startups/industries to build robots!
+- 👀 I’m interested in control of robotics and autonomous systems
+- 💞️ I’m looking to collaborate with startups/industries to build autonomous vehicles!
 - 📫 Feel free to reach me at aditya.ravichander@gmail.com
 
 <!---
