@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityaravichander
 - 👀 I’m interested in systems architecture, control software, software testing, and product engineering
-- 💞️ I’m looking to collaborate to build safety-critical autonomous vehicles!
+- 💞️ I’m looking to collaborate to build safety-critical software-defined vehicles!
 - 📫 Feel free to reach me at aditya.ravichander@gmail.com
 
 <!---
